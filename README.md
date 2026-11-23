@@ -10,7 +10,6 @@ The full write-ups are at [swe.gg/work](https://swe.gg/work/).
 | [**Librarry**](https://github.com/bandoracer/librarry) | A self-hosted ebook and audiobook manager, built to replace Readarr. Go, Postgres, React. |
 | [**Rommio**](https://github.com/bandoracer/rommio) | Native Android and iOS apps for RomM, with libretro emulation built in. |
 | [**iGhostty**](https://github.com/bandoracer/ighostty) | A macOS terminal on libghostty, with the iTerm2 features I missed. |
-| [**Idiotfarm**](https://github.com/bandoracer/idiot-farm) | Adversarial browser personas a coding agent can point at a web app. |
 
 ### How I work with agents
 
